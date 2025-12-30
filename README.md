@@ -1,7 +1,6 @@
-# Signal Processing Project
-
-This repository contains the implementation, simulations, and report for the
-**Signal Processing course project**.
+# Course Project
+> Analog Electronic Circuits (EC5.201) Course Project  
+> Monsoon 2025, IIIT Hyderabad
 
 ---
 
