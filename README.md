@@ -1,5 +1,5 @@
 # Course Project
-> Analog Electronic Circuits (EC5.201) Course Project  
+> Signal Processing (EC5.201) Course Project  
 > Monsoon 2025, IIIT Hyderabad
 
 ---
